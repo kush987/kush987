@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python programming, javascript, cloud technology and backend development...
 - 📫 Reach me: kushal.kumar@gmail.com
 
-**Langugae and tools**
+**Langugaes and tools**
 
 
 <img src="https://user-images.githubusercontent.com/97940710/217604959-9fd8a973-d8c6-4e6c-9718-f18fa48d1777.png" width="30" height="30"> &emsp; <img src="https://user-images.githubusercontent.com/97940710/217606392-689f9c46-012e-4a96-b089-dd0549e3d587.png" width="30" height="30"> &emsp; 
