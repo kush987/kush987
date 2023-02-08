@@ -2,7 +2,6 @@
 
 I'm Kushal Kumar programming enthusias. I am a Software engineer from india.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working at Diatoz as a Python developer...
 - 🌱 I’m currently learning Javascript and Node.js...
