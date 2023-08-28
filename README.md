@@ -15,7 +15,8 @@ I'm Kushal Kumar programming enthusiast. I am a Software engineer from India.
 <img src="https://user-images.githubusercontent.com/97940710/217604959-9fd8a973-d8c6-4e6c-9718-f18fa48d1777.png" width="30" height="30"> &emsp; <img src="https://user-images.githubusercontent.com/97940710/217606392-689f9c46-012e-4a96-b089-dd0549e3d587.png" width="30" height="30"> &emsp; 
 <img src="https://user-images.githubusercontent.com/97940710/217607008-f51630a6-c9a3-43bd-bb87-6146320bbbf8.png" width="30" height="30"> &emsp;
 <img src="https://user-images.githubusercontent.com/97940710/217607437-ce0a361c-deeb-4701-8db7-567714e59b8d.svg" width="30" height="30"> &emsp; 
-<img src="https://user-images.githubusercontent.com/97940710/217607652-52f2e88b-6cbe-4c41-ae31-9be4f8b9ee7d.png" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/97940710/217607652-52f2e88b-6cbe-4c41-ae31-9be4f8b9ee7d.png" width="30" height="30"> &emsp;
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27016%2Fangular&psig=AOvVaw2P2vTdUWUUIeJW5ILnM1oh&ust=1693288066408000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCx6ODT_oADFQAAAAAdAAAAABAE" width="30" height="30">
 
 **Social**
 
