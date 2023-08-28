@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I'm Kushal Kumar programming enthusias. I am a Software engineer from india.
+I'm Kushal Kumar programming enthusiast. I am a Software engineer from India.
 
 
 - 🔭 I’m currently working at Diatoz as a Python developer...
 - 🌱 I’m currently learning Javascript and Node.js...
-- 💬 Ask me about Python programming, javascript, cloud technology and backend development...
+- 💬 Ask me about Python programming, javascript, cloud technology, and backend development...
 - 📫 Reach me: kushal.kumar@gmail.com
+- Full Stack Developer
 
 **Langugaes and tools**
 
