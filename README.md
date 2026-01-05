@@ -3,11 +3,20 @@
 Kushal Kumar | Software Engineer | Programming Enthusiast.
 
 
-- 🔭 I’m currently working as a Software Development Engineer-2...
-- 🌱 I’m experienced in Javascript and Node.js...
-- 💬 Ask me about Java programming, Javascript, python, cloud technology, and backend development...
-- 📫 Reach me: kushalrajak1999@gmail.com
-- Full Stack Developer
+- 🔭 I'm a Software Development Engineer-2, building scalable backend systems and distributed services
+
+- 🌱 Strong experience in JavaScript & Node.js, with hands-on expertise in building high-performance APIs
+
+- 🧠 System Design Specialist & Algorithmist, focused on scalability, performance, and clean architecture
+
+- ⚙️ Full-Stack Developer with deep backend expertise and modern frontend integration
+
+- 💬 Ask me about: Java, JavaScript, Python, Cloud Technologies, Microservices, System Design & Backend Engineering
+
+- ☁️ Experienced with cloud-native architectures, databases, messaging systems, and distributed computing
+  
+- 📫 Reach me at: kushalrajak1999@gmail.com
+
 
 **Langugaes and tools**
 
