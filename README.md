@@ -3,7 +3,7 @@
 Kushal Kumar | Software Engineer | Programming Enthusiast.
 
 
-- 🔭 I'm a Software Development Engineer-2, building scalable backend systems and distributed services
+- 🔭 I'm a Software Development Engineer, building scalable backend systems and distributed services
 
 - 🌱 Strong experience in JavaScript & Node.js, with hands-on expertise in building high-performance APIs
 
